@@ -1,4 +1,5 @@
 // Coding Challenge #4
+"use strict";
 
 const bill = 275;
 

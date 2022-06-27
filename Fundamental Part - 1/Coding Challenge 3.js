@@ -1,4 +1,5 @@
 // Coding Challenge #3
+"use strict";
 var Dolphins;
 var Koalas;
 var DolphinsData1;

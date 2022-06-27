@@ -1,3 +1,5 @@
+"use strict";
+
 // asignment
 
 var length;
@@ -10,7 +12,7 @@ length = 10;
 width = 5;
 size = 2;
 
-parimeter = length + width;
+let parimeter = length + width;
 
 console.log(parimeter);
 

@@ -1,5 +1,5 @@
 // Coding Challenge #2
-
+"use strict";
 var markmass = 95;
 var markheight = 1.88 ;
 var markBMI;
